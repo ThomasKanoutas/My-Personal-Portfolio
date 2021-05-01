@@ -56,8 +56,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi all! My name is Thomas Kanoutas , I am 23 years old and I am senior student of the Electrical & Computer Engineering Department at the Aristotle University of Thessaloniki. I am highly interested at Artificial Intelligence, Machine Learning and my favourite programming language is Python. 
+Hi all! My name is Thomas Kanoutas , I am 23 years old and I am senior student of the Electrical & Computer Engineering Department  the Aristotle University of Thessaloniki. I am highly interested in Artificial Intelligence, Machine Learning and my favourite programming language is Python. 
 
-Currently, I am doing my Diploma Thesis titled _Implementation of a source code formattion system using machine learning techniques_ in association with [Intelligent Systems and Software Engineering Labgroup (ISSEL)](https://issel.ee.auth.gr/en/13-2/?lang=en) under the supervision of the Associate Professor [Mr. Andreas Symeonidis](https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/) and of the PhD candidate [Mr. Thomas Karanikiotis](https://issel.ee.auth.gr/en/staff/thomas-karanikiotis/).
+I am currently doing my  Thesis titled _Implementation of a source code formattion system using machine learning techniques_ in association with [Intelligent Systems and Software Engineering Labgroup (ISSEL)](https://issel.ee.auth.gr/en/13-2/?lang=en) under the supervision of the Associate Professor [Mr. Andreas Symeonidis](https://issel.ee.auth.gr/en/staff/andreas-l-symeonidis/) and of the PhD candidate [Mr. Thomas Karanikiotis](https://issel.ee.auth.gr/en/staff/thomas-karanikiotis/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
