@@ -47,7 +47,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: My-Personal-Portfolio/tree/master/static/media/resume.pdf
+  link: https://objective-engelbart-b970b1.netlify.app/static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
