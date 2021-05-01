@@ -13,7 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- name: Follow
 url_code: "https://github.com/ThomasKanoutas/COVID19-Data-Analysis"
 url_pdf: ""
 
@@ -22,5 +21,4 @@ url_pdf: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
