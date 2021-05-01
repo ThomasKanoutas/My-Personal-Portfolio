@@ -15,6 +15,7 @@ image:
 links:
 url_code: "https://github.com/ThomasKanoutas/COVID19-Data-Analysis"
 url_pdf: ""
+{{< figure src="covid.png" caption="A caption" >}}
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
