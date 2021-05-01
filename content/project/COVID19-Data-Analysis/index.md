@@ -9,12 +9,11 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: covid19.png
   focal_point: Smart
 
 links:
 - name: Follow
-  url: https://twitter.com/georgecushen
 url_code: "https://github.com/ThomasKanoutas/COVID19-Data-Analysis"
 url_pdf: ""
 
